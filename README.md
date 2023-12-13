@@ -12,7 +12,7 @@ N/A
 
 ## Usage
 
-Follow the prompts to generate a password. Unfortunately issues loading the password on the page.
+Follow the prompts to generate a password and add desired elements.
 
 ## Credits
 
